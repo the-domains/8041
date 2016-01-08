@@ -1,0 +1,13 @@
+layout_spectrum: 0.188172
+color:
+  saturation: 0.390681
+  brandStrength: 0.1792115
+  lightness: 1
+  brandColors:
+    - '#FFFBFF'
+    - '#55C4E1'
+    - '#ACB4E0'
+    - '#0465AC'
+  rhythmicContrast: 0.7437276
+typography_spectrum: 0.6021506
+name: '8041'
